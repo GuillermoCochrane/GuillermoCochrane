@@ -1,3 +1,6 @@
+<h1 align="center">Hola!! Soy Guille</h1>
+<h3 align="center">Fullstack web developer</h3>
+ 
 <div align = "center">
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
